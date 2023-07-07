@@ -14,3 +14,7 @@ There's more than just motorcyclespecs.co.za. Here's a few useful websites. They
 - https://www.motorcyclespecs.co.za/
 - https://www.webbikeworld.com/
 - https://www.ultimatespecs.com/motorcycles-specs
+
+## TODO
+
+* Log all the errors I find to generate a report for the site authors.
