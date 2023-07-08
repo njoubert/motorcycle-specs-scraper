@@ -15,6 +15,20 @@ There's more than just motorcyclespecs.co.za. Here's a few useful websites. They
 - https://www.webbikeworld.com/
 - https://www.ultimatespecs.com/motorcycles-specs
 
+
+## Useful Resources
+
+Python Code Layout and Structure:
+
+* https://pycon.switowski.com/03-project-structure-2-parts/cookiecutter/
+* https://github.com/cookiecutter/cookiecutter#a-pantry-full-of-cookiecutters
+* https://github.com/audreyfeldroy/cookiecutter-pypackage
+
+
+## Code Organization ideas:
+
+Need to use some sort of virtual environment. Dropping everything into global surely isnt the best idea.
+
 ## TODO
 
-* Log all the errors I find to generate a report for the site authors.
+* For each page, record the transformation applied from raw data to cleaned data, as a way to log all the errors I find to generate a report for the site authors.
